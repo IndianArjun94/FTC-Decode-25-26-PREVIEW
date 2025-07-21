@@ -15,6 +15,8 @@ import com.qualcomm.robotcore.hardware.PIDFCoefficients;
  * These are not the only parameters; some are located in the localizer classes, drive base classes,
  * and op modes themselves.
  */
+
+//TODO: Do this stuff when season starts and we have a robot
 @Config
 public class DriveConstants {
 
